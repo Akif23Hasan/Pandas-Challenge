@@ -17,7 +17,7 @@ The following metrics are included:
 The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
 
 ## Getting Started
-To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrame.
+To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook within the PyCitySchools folder. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrame.
 
 ## Requirements
 The analysis requires the following libraries:
@@ -32,7 +32,7 @@ This repository contains the code to perform necessary calculations and create D
 The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
 
 ## Getting Started
-To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrames.
+To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook within the PyCitySchools folder. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrames.
 
 ## Requirements
 The analysis requires the following libraries:
